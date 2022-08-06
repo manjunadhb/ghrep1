@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>Please add your names here</h1>
       <h1>MY NAME IS : I.REVANTH</h1>
+      <h1>MY NAME IS : B.MANJUNADH</h1>
     </div>
   );
 }
