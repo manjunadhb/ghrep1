@@ -7,7 +7,7 @@ function App() {
       <h1>Please add your names here</h1>
       <h1>MY NAME IS : I.REVANTH</h1>
       <h1>MY NAME IS : B.MANJUNADH</h1>
-      <h1>My name is pranjal</h1>
+      <h1 id="pranjal">MY NAME IS : PRANJAL</h1>
     </div>
   );
 }

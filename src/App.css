@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+#pranjal {
+  color: #61dafb;
+}
+#pranjal:hover {
+  color: rgb(209, 196, 255);
+}
